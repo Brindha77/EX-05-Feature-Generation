@@ -103,8 +103,6 @@ df2
 
 ![G7](https://user-images.githubusercontent.com/118889143/236740223-11a5a239-9cb1-47c5-b300-68ff1a76a586.png)
 
-![G9](https://user-images.githubusercontent.com/118889143/236740279-c3c2810c-6d1b-45b1-b9e1-c5186ba44fcd.png)
-
 ![G10](https://user-images.githubusercontent.com/118889143/236740368-9c3b4177-ef2a-45cf-b2e9-9f6640b65772.png)
 
 ![G11](https://user-images.githubusercontent.com/118889143/236740401-6d68e45f-19c1-4ffc-9063-5c38807baef9.png)
