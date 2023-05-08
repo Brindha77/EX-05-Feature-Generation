@@ -87,6 +87,7 @@ df2 = pd.get_dummies(df2, prefix=['Embarked'] ,columns=['Embarked'])
 df2
 ```
 # OUPUT
+# Encoding Data.csv
 ![G1](https://user-images.githubusercontent.com/118889143/236739976-9ba66582-464f-417d-a3c1-a9c33c074895.png)
 
 ![G2](https://user-images.githubusercontent.com/118889143/236740007-148f49a1-ad85-4975-82bf-0e398a99bf43.png)
@@ -97,6 +98,7 @@ df2
 
 ![G5](https://user-images.githubusercontent.com/118889143/236740149-60b2fefb-b3ae-4fde-b9c2-42a765622958.png)
 
+# data.csv
 ![G6](https://user-images.githubusercontent.com/118889143/236740183-81ae711e-c9cb-40e9-af65-7d66c4777a07.png)
 
 ![G7](https://user-images.githubusercontent.com/118889143/236740223-11a5a239-9cb1-47c5-b300-68ff1a76a586.png)
@@ -111,6 +113,7 @@ df2
 
 ![G12](https://user-images.githubusercontent.com/118889143/236740439-9882c104-aee7-4681-9fee-0cbd60a0cd0d.png)
 
+# titanic_dataset.csv
 ![G13](https://user-images.githubusercontent.com/118889143/236740469-68785f1d-b26c-40a1-988c-ad0e4f5963df.png)
 
 ![G14](https://user-images.githubusercontent.com/118889143/236740509-c4352cf0-19a7-4639-8422-cd90a651ff92.png)
